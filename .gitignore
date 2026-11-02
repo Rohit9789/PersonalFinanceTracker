@@ -1,0 +1,3 @@
+*.class
+data/transactions_backup.txt
+out/
